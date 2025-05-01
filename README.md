@@ -1,0 +1,1 @@
+Este site foi criado como parte do meu aprendizado nos cursos da Alura, onde estou explorando os fundamentos de HTML e CSS para consolidar meus conhecimentos na área de front-end. O objetivo desta página é servir como um teste prático, aplicando os conceitos ensinados nas aulas e aprimorando minhas habilidades em desenvolvimento web.
